@@ -1,0 +1,49 @@
+/*
+ *
+ */
+
+* { margin: 0; padding: 0 }
+
+#react-root {
+    min-height: 100vh;
+    background: #cccccc;
+}
+
+.board {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square {
+    width: 12.5vw;
+    height: 12.5vh;
+
+    display: flex;
+    justify-content: center;
+}
+
+.piece {
+    align-self: center;
+    font-size: 32px;
+}
+
+.light {
+    background: #aaa379;
+}
+
+.dark {
+    background: #685271;
+}
+
+.highlight {
+    background: #f0c330;
+}
+
+.accepting {
+    background: #239f86;
+}
+
+.square > div {
+    display: flex;
+    justify-content: center;
+}
