@@ -11,8 +11,21 @@
     "type": "git",
     "url": "git+https://github.com/jsbites/d-n-d.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "dnd",
+    "react-dnd",
+    "sample",
+    "example",
+    "redux",
+    "react",
+    "vidcast",
+    "videocast",
+    "videos",
+    "tutorials",
+    "javascript",
+    "screencast"    
+  ],
+  "author": "Volkan Özçelik <me@volkan.io> (https://volkan.io/)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jsbites/d-n-d/issues"
