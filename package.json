@@ -1,6 +1,6 @@
 {
   "name": "d-n-d",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Drag and Drop Demo Project",
   "main": "index.js",
   "scripts": {
@@ -12,21 +12,28 @@
     "url": "git+https://github.com/jsbites/d-n-d.git"
   },
   "keywords": [
+    "byte-sized javascript",
+    "byte-sized",
+    "bytesized.tv",
+    "demos",
     "dnd",
-    "react-dnd",
-    "sample",
+    "education",
     "example",
-    "redux",
+    "javascript",
+    "learning",
+    "podcast",
     "react",
+    "react-dnd",
+    "redux",
+    "sample",
+    "screencast",
+    "tutorials",
     "vidcast",
     "videocast",
-    "videos",
-    "tutorials",
-    "javascript",
-    "screencast"    
+    "videos"
   ],
   "author": "Volkan Özçelik <me@volkan.io> (https://volkan.io/)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jsbites/d-n-d/issues"
   },
